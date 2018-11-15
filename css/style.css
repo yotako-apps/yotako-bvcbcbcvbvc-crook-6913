@@ -1,0 +1,312 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style0,
+  .style4 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 51px;
+    margin-top: 38px;
+    width: 152px;
+    height: 63px
+  }
+  .style0 {
+    position: relative;
+    margin-left: 43px;
+    margin-top: 41px;
+    width: 157px;
+    height: 52px
+  }
+  .style1,
+  .style2,
+  .style3,
+  .style5,
+  .style6 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: .9375em;
+    margin-left: 50px;
+    margin-top: 42px;
+    height: 7px
+  }
+  .style2,
+  .style3,
+  .style5,
+  .style6 {
+    margin-top: 30px;
+    height: 1px
+  }
+  .style3,
+  .style5,
+  .style6 {
+    margin-left: 48px;
+    margin-top: 28px;
+    height: 6px
+  }
+  .style5,
+  .style6 {
+    margin-left: 38px;
+    margin-top: 44px;
+    height: 58px
+  }
+  .style6 {
+    margin-left: 43px;
+    margin-top: 40px;
+    height: 42px
+  }
+  .style7 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 32px;
+    margin-top: 34px;
+    width: 224px;
+    height: 114px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style0,
+  .style4 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 104px;
+    margin-top: 78px;
+    width: 311px;
+    height: 129px
+  }
+  .style0 {
+    position: relative;
+    margin-left: 88px;
+    margin-top: 84px;
+    width: 322px;
+    height: 106px
+  }
+  .style1,
+  .style2,
+  .style3,
+  .style5,
+  .style6 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 1.92em;
+    margin-left: 102px;
+    margin-top: 86px;
+    height: 14px
+  }
+  .style2,
+  .style3,
+  .style5,
+  .style6 {
+    margin-top: 61px;
+    height: 2px
+  }
+  .style3,
+  .style5,
+  .style6 {
+    margin-left: 98px;
+    margin-top: 57px;
+    height: 12px
+  }
+  .style5,
+  .style6 {
+    margin-left: 78px;
+    margin-top: 90px;
+    height: 119px
+  }
+  .style6 {
+    margin-left: 88px;
+    margin-top: 82px;
+    height: 86px
+  }
+  .style7 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 66px;
+    margin-top: 70px;
+    width: 459px;
+    height: 233px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style0,
+  .style4 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 125px;
+    margin-top: 93px;
+    width: 373px;
+    height: 155px
+  }
+  .style0 {
+    position: relative;
+    margin-left: 105px;
+    margin-top: 101px;
+    width: 385px;
+    height: 128px
+  }
+  .style1,
+  .style2,
+  .style3,
+  .style5,
+  .style6 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 2.3em;
+    margin-left: 123px;
+    margin-top: 103px;
+    height: 17px
+  }
+  .style2,
+  .style3,
+  .style5,
+  .style6 {
+    margin-top: 74px;
+    height: 2px
+  }
+  .style3,
+  .style5,
+  .style6 {
+    margin-left: 118px;
+    margin-top: 69px;
+    height: 15px
+  }
+  .style5,
+  .style6 {
+    margin-left: 93px;
+    margin-top: 108px;
+    height: 142px
+  }
+  .style6 {
+    margin-left: 105px;
+    margin-top: 98px;
+    height: 103px
+  }
+  .style7 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 79px;
+    margin-top: 83px;
+    width: 550px;
+    height: 280px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style0,
+  .style4 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 163px;
+    margin-top: 122px;
+    width: 486px;
+    height: 202px
+  }
+  .style0 {
+    position: relative;
+    margin-left: 138px;
+    margin-top: 131px;
+    width: 502px;
+    height: 166px
+  }
+  .style1,
+  .style2,
+  .style3,
+  .style5,
+  .style6 {
+    color: rgba(50,50,50,.85);
+    font-family: Lato,serif;
+    font-size: 3em;
+    margin-left: 160px;
+    margin-top: 134px;
+    height: 22px
+  }
+  .style2,
+  .style3,
+  .style5,
+  .style6 {
+    margin-top: 96px;
+    height: 3px
+  }
+  .style3,
+  .style5,
+  .style6 {
+    margin-left: 154px;
+    margin-top: 90px;
+    height: 19px
+  }
+  .style5,
+  .style6 {
+    margin-left: 122px;
+    margin-top: 141px;
+    height: 186px
+  }
+  .style6 {
+    margin-left: 138px;
+    margin-top: 128px;
+    height: 134px
+  }
+  .style7 {
+    background-color: #42aed2;
+    border-left: 0 solid #000;
+    border-right: 0 solid #000;
+    border-top: 0 solid #000;
+    border-bottom: 0 solid #000;
+    box-shadow: 0 1px 5px 1px rgba(0,0,0,.2),0 2px 2px 1px rgba(0,0,0,.14),0 3px 1px -2px rgba(0,0,0,.12);
+    color: rgba(255,255,255,.85);
+    margin-left: 102px;
+    margin-top: 109px;
+    width: 717px;
+    height: 365px
+  }
+}
